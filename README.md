@@ -1,3 +1,5 @@
+<img width="1535" height="807" alt="Screenshot 2026-11-02 152215" src="https://github.com/user-attachments/assets/55184780-6fa7-4f94-9671-03f32e3f8e0c" />
+
 # TraceIt
 ### Smart Lost-Item Recovery & Matching Engine
 
